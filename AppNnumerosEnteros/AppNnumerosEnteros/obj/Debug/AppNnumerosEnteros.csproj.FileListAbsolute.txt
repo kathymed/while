@@ -1,0 +1,6 @@
+c:\users\lab104bpc9\documents\visual studio 2012\Projects\AppNnumerosEnteros\AppNnumerosEnteros\bin\Debug\AppNnumerosEnteros.exe.config
+C:\Users\LAB104BPC9\Documents\Visual Studio 2012\Projects\AppNnumerosEnteros\AppNnumerosEnteros\bin\Debug\AppNnumerosEnteros.exe
+C:\Users\LAB104BPC9\Documents\Visual Studio 2012\Projects\AppNnumerosEnteros\AppNnumerosEnteros\bin\Debug\AppNnumerosEnteros.pdb
+C:\Users\LAB104BPC9\Documents\Visual Studio 2012\Projects\AppNnumerosEnteros\AppNnumerosEnteros\obj\Debug\AppNnumerosEnteros.csprojResolveAssemblyReference.cache
+C:\Users\LAB104BPC9\Documents\Visual Studio 2012\Projects\AppNnumerosEnteros\AppNnumerosEnteros\obj\Debug\AppNnumerosEnteros.exe
+C:\Users\LAB104BPC9\Documents\Visual Studio 2012\Projects\AppNnumerosEnteros\AppNnumerosEnteros\obj\Debug\AppNnumerosEnteros.pdb

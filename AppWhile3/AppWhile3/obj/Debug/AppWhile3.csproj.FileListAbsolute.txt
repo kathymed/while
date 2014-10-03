@@ -1,0 +1,6 @@
+c:\users\lab104bpc9\documents\visual studio 2012\Projects\AppWhile3\AppWhile3\bin\Debug\AppWhile3.exe.config
+c:\users\lab104bpc9\documents\visual studio 2012\Projects\AppWhile3\AppWhile3\bin\Debug\AppWhile3.exe
+c:\users\lab104bpc9\documents\visual studio 2012\Projects\AppWhile3\AppWhile3\bin\Debug\AppWhile3.pdb
+c:\users\lab104bpc9\documents\visual studio 2012\Projects\AppWhile3\AppWhile3\obj\Debug\AppWhile3.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc9\documents\visual studio 2012\Projects\AppWhile3\AppWhile3\obj\Debug\AppWhile3.exe
+c:\users\lab104bpc9\documents\visual studio 2012\Projects\AppWhile3\AppWhile3\obj\Debug\AppWhile3.pdb

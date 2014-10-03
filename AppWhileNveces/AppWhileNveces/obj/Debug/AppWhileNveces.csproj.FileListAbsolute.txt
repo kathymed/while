@@ -1,0 +1,6 @@
+c:\users\lab104bpc9\documents\visual studio 2012\Projects\AppWhileNveces\AppWhileNveces\bin\Debug\AppWhileNveces.exe.config
+c:\users\lab104bpc9\documents\visual studio 2012\Projects\AppWhileNveces\AppWhileNveces\bin\Debug\AppWhileNveces.exe
+c:\users\lab104bpc9\documents\visual studio 2012\Projects\AppWhileNveces\AppWhileNveces\bin\Debug\AppWhileNveces.pdb
+c:\users\lab104bpc9\documents\visual studio 2012\Projects\AppWhileNveces\AppWhileNveces\obj\Debug\AppWhileNveces.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc9\documents\visual studio 2012\Projects\AppWhileNveces\AppWhileNveces\obj\Debug\AppWhileNveces.exe
+c:\users\lab104bpc9\documents\visual studio 2012\Projects\AppWhileNveces\AppWhileNveces\obj\Debug\AppWhileNveces.pdb
